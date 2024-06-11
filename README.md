@@ -1,5 +1,4 @@
 # Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante
-# Fundamentos_Jira_Sofware_para_Q-A
 * Curso hecho en la plataforma OpenWebinars
 ******************************************************************************************
 ## Inicio curso
