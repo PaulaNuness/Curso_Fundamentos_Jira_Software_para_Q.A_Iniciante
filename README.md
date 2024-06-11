@@ -1,0 +1,1 @@
+# Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante
