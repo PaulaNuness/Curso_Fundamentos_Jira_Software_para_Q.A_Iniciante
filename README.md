@@ -39,3 +39,6 @@
    * No permitir registrarse con mismos datos, dos veces
    * No permitir registrarse sin completar datos obligatorios
 ******************************************************************************************************************
+# Pasos de la tarea 01.
+* Está descrito en el word. El enlace es:
+******************************************************************************************************************
