@@ -44,11 +44,13 @@
 * [Foto de la pantalla con la tarea 01](https://github.com/PaulaNuness/Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante/blob/main/Tarea%2001.pdf)
 * [Pasos tarea 01](https://github.com/PaulaNuness/Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante/blob/main/Pasos%20tarea%2001.pdf)
 ******************************************************************************************************************
-# Configuarar manualmente XRAY
+# XRAY
+* para gestionar
+  
+# Configurar manualmente XRAY
 * Está descrito en el pdf. El enlace es:
-* [Cofigurar Manualmente](https://github.com/PaulaNuness/Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante/blob/main/Tarea%2001.pdf)
+* [Cofigurar Manualmente](https://github.com/PaulaNuness/Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante/blob/main/Configurar%20manualmente%20XRAY.pdf)
 
 ******************************************************************************************************************
-# XRAY
-* para gestionar 
-******************************************************************************************************************
+
+
