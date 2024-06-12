@@ -50,7 +50,7 @@
   
 # Configurar manualmente XRAY
 * Está descrito en el pdf. El enlace es:
-* [Cofigurar Manualmente](https://github.com/PaulaNuness/Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante/blob/main/Configurar%20manualmente%20XRAY.pdf)
+* [Configurar Manualmente XRAY](https://github.com/PaulaNuness/Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante/blob/main/Configurar%20manualmente%20XRAY.pdf)
 
 ******************************************************************************************************************
 
