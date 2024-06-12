@@ -45,7 +45,8 @@
 * [Pasos tarea 01](https://github.com/PaulaNuness/Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante/blob/main/Pasos%20tarea%2001.pdf)
 ******************************************************************************************************************
 # XRAY
-* para gestionar
+* herramienta de gestion de pruebas.
+* XRAY permite a los equipos planificar, diseñar, ejecutar y monitorear pruebas de software dentro de Jira. Proporciona una estructura para definir casos de prueba, planes de prueba y ejecuciones de prueba
   
 # Configurar manualmente XRAY
 * Está descrito en el pdf. El enlace es:
