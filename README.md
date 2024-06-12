@@ -40,9 +40,13 @@
    * No permitir registrarse sin completar datos obligatorios
 ******************************************************************************************************************
 # Pasos de la tarea 01.
-* Está descrito en el word. El enlace es:
+* Está descrito en el pdf. El enlace es:
 * [Foto de la pantalla con la tarea 01](https://github.com/PaulaNuness/Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante/blob/main/Tarea%2001.pdf)
 * [Pasos tarea 01](https://github.com/PaulaNuness/Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante/blob/main/Pasos%20tarea%2001.pdf)
+******************************************************************************************************************
+# Configuarar manualmente XRAY
+* Está descrito en el pdf. El enlace es:
+* [Cofigurar Manualmente](https://github.com/PaulaNuness/Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante/blob/main/Tarea%2001.pdf)
 
 ******************************************************************************************************************
 # XRAY
