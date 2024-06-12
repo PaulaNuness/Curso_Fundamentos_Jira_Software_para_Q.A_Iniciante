@@ -2,7 +2,7 @@
 * Curso hecho en la plataforma OpenWebinars
 ******************************************************************************************
 ## Inicio curso
-* Creamos una cuenta en Jira ( para gestionar los pryectos)
+* Creamos una cuenta en Jira ( para gestionar los proyectos)
 * En el curso vamos utilizar SCRUM, Kanban no.
 *****************************************************************************************
 ## Tarea 01
