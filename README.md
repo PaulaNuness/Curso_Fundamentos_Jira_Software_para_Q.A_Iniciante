@@ -53,5 +53,18 @@
 * [Configurar Manualmente XRAY](https://github.com/PaulaNuness/Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante/blob/main/Configurar%20manualmente%20XRAY.pdf)
 
 ******************************************************************************************************************
+# Pasos para crear un plan de pruebas en XRAY
+* Crear incidencia con antes, dentro de un proyecto, pulsar botón (azul) crear 
+* Elegir el tipo de incidencia TEST PLAN que habiamos creado antes en la configuracion
+* Poner el resumen (titulo de la tarea)
+* Ahora vamos a relacionar el test plan con la user history (US)
+* Vamos en incidencias enlazadas
+* En el primer campo ponemos relates to
+* En el segundo campo elegimos la historia de usuario creada
+* Pulsar crear
+* Si no esta visible, la torne visible poniendo dentro del sprint que hace referencia
+* Pulsamos en la incidencia creada, y ponemos la descricion, com objetivo, analisis, estrategia y riesgos.
+******************************************************************************************************************
+
 
 
