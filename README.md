@@ -53,7 +53,7 @@
 * [Configurar Manualmente XRAY](https://github.com/PaulaNuness/Curso_Fundamentos_Jira_Software_para_Q.A_Iniciante/blob/main/Configurar%20manualmente%20XRAY.pdf)
 
 ******************************************************************************************************************
-# Pasos para crear un plan de pruebas en XRAY
+# Pasos para diseñar un plan de pruebas en XRAY
 * Crear incidencia con antes, dentro de un proyecto, pulsar botón (azul) crear 
 * Elegir el tipo de incidencia TEST PLAN que habiamos creado antes en la configuracion
 * Poner el resumen (titulo de la tarea)
