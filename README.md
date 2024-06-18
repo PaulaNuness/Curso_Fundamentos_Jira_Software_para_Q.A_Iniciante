@@ -65,6 +65,30 @@
 * Si no esta visible, la torne visible poniendo dentro del sprint que hace referencia
 * Pulsamos en la incidencia creada, y ponemos la descricion, com objetivo, analisis, estrategia y riesgos.
 ******************************************************************************************************************
+# Como crear casos de pruebas en XRAY
+* A la izquierda hay una opcion: Tablero de Testing, pulsar
+* Aqui vamos organizar mejor nuestras incidencias para hacer los testes
+* Pulsar crear
+* Pulsar test
+* Elegimos el tipo de incidencia TEST
+* Escribimos un resumen y los otros campos que sean necesarios, de acuerdo con las instruciones del equipo
+* Pulsar crear
+* Ahora desde el tablero de testes(está a la izquierda de la pantalla al final) que tenemos en el proyecto, pulsamos en la incidencia creada
+* Se no hay descripcion, poner, abajo hay un despliegue TIPO DE TEST, elegir CUMCUBER
+* Ahora escribir el ensenario con Given  And  When  And  Then  --> deben estar en azul estrutura del lenguaje Gherkin
+* Crear una cuenta Cucumber
+* Exportar el caso de prueba a Cucumber
+* Abrir Cucumber, pulsar donde tenemos +
+* Importar data --> Gherkin --> ponre un nombre --> importar --> elegir el zip
+* Pulsar en ensenario y ai estará en caso de pruebas que importamos
+  
+******************************************************************************************************************
+
+# Cucumber 
+* Herramienta para implementar BDD(Desarrollo guiado por comportamiento, es una metologia que se basa en la colaboracion y comunicación entre equipos) en las pruebas automatizadas
+* Utiliza lenguaje Gherkin(facil lectura, comun)
+  
+******************************************************************************************************************
 
 
 
